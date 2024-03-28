@@ -1,0 +1,44 @@
+[
+  {
+    "packageFamilyName": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0",
+    "excludePaths": [
+      "/__noul__/*",
+      "/artist/*/appears-on",
+      "/artist/*/discography",
+      "/artist/*/discography/album",
+      "/artist/*/discography/all",
+      "/artist/*/discography/compilation",
+      "/artist/*/discography/single",
+      "/artist/*/discovered-on",
+      "/artist/*/featuring",
+      "/artist/*/playlists",
+      "/artist/*/related"
+    ],
+    "paths": [
+      "/artist/*",
+      "/track/*",
+      "/album/*",
+      "/playlist/*",
+      "/genre/*",
+      "/show/*",
+      "/episode/*",
+      "/user/*",
+      "/intl-??/artist/*",
+      "/intl-??-??/artist/*",
+      "/intl-??/track/*",
+      "/intl-??-??/track/*",
+      "/intl-??/album/*",
+      "/intl-??-??/album/*",
+      "/intl-??/playlist/*",
+      "/intl-??-??/playlist/*",
+      "/intl-??/genre/*",
+      "/intl-??-??/genre/*",
+      "/intl-??/show/*",
+      "/intl-??-??/show/*",
+      "/intl-??/episode/*",
+      "/intl-??-??/episode/*",
+      "/intl-??/user/*",
+      "/intl-??-??/user/*"
+    ]
+  }
+]

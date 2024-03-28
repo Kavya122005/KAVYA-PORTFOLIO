@@ -1,0 +1,30 @@
+[
+  {
+    "packageFamilyName": "DRAWBOARD.DRAWBOARDPDF_gqbn7fs4pywxm",
+    "paths": [
+      "documents/*",
+      "redirects/*"
+    ]
+  },
+  {
+    "packageFamilyName": "DRAWBOARD.DRAWBOARDPDF_az88965nfbvjc",
+    "paths": [
+      "documents/*",
+      "redirects/*"
+    ]
+  },
+  {
+    "packageFamilyName": "DRAWBOARD.DRAWBOARDPDF.DEBUG_gqbn7fs4pywxm",
+    "paths": [
+      "documents/*",
+      "redirects/*"
+    ]
+  },
+  {
+    "packageFamilyName": "DRAWBOARD.DRAWBOARDPDF.SELFHOSTING_az88965nfbvjc",
+    "paths": [
+      "documents/*",
+      "redirects/*"
+    ]
+  }
+]
